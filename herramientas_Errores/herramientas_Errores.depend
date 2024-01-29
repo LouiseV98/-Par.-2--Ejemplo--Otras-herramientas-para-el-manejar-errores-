@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1706510092 source:c:\users\gilberto\desktop\herramientas_errores\-par.-2--ejemplo--otras-herramientas-para-el-manejar-errores-\herramientas_errores\main.cpp
+	<iostream>
+	<fstream>
+	<cassert>
+	<stdexcept>
+
